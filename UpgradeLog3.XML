@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="cetimol-butt">
+</Property><Property Name="Solution File" Value="C:\CE-SALONIKA\CETIMOL\PRG\cetimol-butt.sln">
+</Property><Property Name="User Options File" Value="C:\CE-SALONIKA\CETIMOL\PRG\cetimol-butt.suo">
+</Property><Property Name="Date" Value="Σάββατο, 16 Ιανουαρίου 2016">
+</Property><Property Name="Time" Value="5:22 πμ">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="cetimol-butt.sln" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\cetimol-butt.sln">
+</Event><Event ErrorLevel="0" Project="" Source="cetimol-butt.suo" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\cetimol-butt.suo">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="cetimol-butt.vbproj" Description="Project file successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\cetimol-butt.vbproj">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="cetimol-butt.vbproj.user" Description="Project user file successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\cetimol-butt.vbproj.user">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="aaaDataSet.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\aaaDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="aaaDataSet.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\aaaDataSet.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="aaaDataSet1.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\aaaDataSet1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form0.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Form0.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form0.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Form0.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="APOG.designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\APOG.designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="APOG.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\APOG.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form11.designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Form11.designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form11.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Form11.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="BOHU.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\BOHU.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="BOHU.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\BOHU.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form5.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Form5.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form5.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Form5.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form6.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Form6.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form6.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Form6.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="SHOWAPOGR.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\SHOWAPOGR.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="SHOWAPOGR.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\SHOWAPOGR.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="IMPORTS.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\IMPORTS.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="IMPORTS.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\IMPORTS.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Module1.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Module1.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="pelinput.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\pelinput.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="pelinput.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\pelinput.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="SQL.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\SQL.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="SQL.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\SQL.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="symbo1.designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\symbo1.designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="symbo1.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\symbo1.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="TIMOLOGHSH.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\TIMOLOGHSH.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="TIMOLOGHSH.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\TIMOLOGHSH.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="TIMOLPETR.Designer.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\TIMOLPETR.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="TIMOLPETR.vb" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\TIMOLPETR.vb">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="aaaDataSet.xsc" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\aaaDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="aaaDataSet.xsd" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\aaaDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="aaaDataSet.xss" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\aaaDataSet.xss">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="aaaDataSet1.xsc" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\aaaDataSet1.xsc">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="aaaDataSet1.xsd" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\aaaDataSet1.xsd">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="aaaDataSet1.xss" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\aaaDataSet1.xss">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form0.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Form0.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="APOG.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\APOG.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form11.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Form11.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="BOHU.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\BOHU.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form5.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Form5.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form6.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\Form6.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="SHOWAPOGR.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\SHOWAPOGR.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="IMPORTS.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\IMPORTS.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="My Project\Resources.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="pelinput.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\pelinput.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="SQL.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\SQL.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="symbo1.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\symbo1.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="TIMOLOGHSH.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\TIMOLOGHSH.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="TIMOLPETR.resx" Description="File successfully backed up as C:\CE-SALONIKA\CETIMOL\PRG\Backup1\TIMOLPETR.resx">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="cetimol-butt.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="cetimol-butt.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="cetimol-butt.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="cetimol-butt.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="APOG.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="APOG.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="BOHU.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="BOHU.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form0.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="Form0.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form11.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="Form11.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form5.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="Form5.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="Form6.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="Form6.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="IMPORTS.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="IMPORTS.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="My Project\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="My Project\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="pelinput.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="pelinput.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="SHOWAPOGR.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="SHOWAPOGR.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="SQL.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="SQL.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="symbo1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="symbo1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="TIMOLOGHSH.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="TIMOLOGHSH.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="TIMOLPETR.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="TIMOLPETR.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="cetimol-butt.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="cetimol-butt.vbproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="aaaDataSet.xsd" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="aaaDataSet.xsd" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="cetimol-butt" Source="aaaDataSet1.xsd" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cetimol-butt" Source="aaaDataSet1.xsd" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event></UpgradeLog>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "cetimol-butt", "cetimol-butt.vbproj", "{B8612DAA-1E07-4E81-B411-CEDD5B1DB9D8}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "SmartDeviceCab2", "..\SmartDeviceCab2\SmartDeviceCab2.vddproj", "{41FAA9B3-E0D5-419E-B394-4000230B13A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8612DAA-1E07-4E81-B411-CEDD5B1DB9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8612DAA-1E07-4E81-B411-CEDD5B1DB9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8612DAA-1E07-4E81-B411-CEDD5B1DB9D8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B8612DAA-1E07-4E81-B411-CEDD5B1DB9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8612DAA-1E07-4E81-B411-CEDD5B1DB9D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8612DAA-1E07-4E81-B411-CEDD5B1DB9D8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{41FAA9B3-E0D5-419E-B394-4000230B13A2}.Debug|Any CPU.ActiveCfg = Debug
+		{41FAA9B3-E0D5-419E-B394-4000230B13A2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DOKIMI-PC2003-1">
+</Property><Property Name="Solution File" Value="C:\CETIMOL\PRG\DOKIMI-PC2003-1.sln">
+</Property><Property Name="Date" Value="Σάββατο, 16 Ιανουαρίου 2016">
+</Property><Property Name="Time" Value="5:13 πμ">
+</Property></Properties><Event ErrorLevel="2" Project="DOKIMI-PC2003-1" Source="DOKIMI-PC2003-1.vbproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="DOKIMI-PC2003-2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DOKIMI-PC2003-2.sln" Description="Converted">
+</Event></UpgradeLog>
